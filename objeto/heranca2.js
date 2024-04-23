@@ -1,4 +1,4 @@
-Object.prototype.attr0 = 'Z'
+
 const avo = {
     attr: 'A'
 }
